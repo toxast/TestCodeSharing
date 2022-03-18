@@ -1,0 +1,22 @@
+# https://www.jetbrains.com/help/resharper/EditorConfig_Index.html
+
+[*]
+
+# C# Formatting
+csharp_indent_braces = false
+csharp_new_line_before_catch = false
+csharp_new_line_before_else = false
+csharp_new_line_before_finally = false
+csharp_new_line_before_members_in_object_initializers = false
+csharp_new_line_before_open_brace = none
+
+csharp_space_after_semicolon_in_for_statement = true
+csharp_space_before_colon_in_inheritance_clause = true
+csharp_preserve_single_line_blocks = true
+
+# C# Code style
+csharp_style_var_when_type_is_apparent = true:suggestion
+
+# Resharper
+resharper_csharp_extra_spaces = leave_all
+resharper_csharp_indent_preprocessor_if = no_indent
