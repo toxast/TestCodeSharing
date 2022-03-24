@@ -1,0 +1,12 @@
+{
+  "name": "com.revizto.revizto-shared",
+  "version": "1.0.0",
+  "displayName": "ReviztoShared",
+  "unity": "2019.4",
+  "keywords": [
+    "shared",
+    "core",
+    "common"
+  ],
+  "description": "revizto-shared core libs test description"
+}
